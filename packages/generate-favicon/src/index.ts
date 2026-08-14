@@ -1,6 +1,6 @@
 export { ImageAdapter } from './svg/adapter';
 
-export { bitmapToSvg, stringToSvg, anyUrlToSvg, dataUrlToSvg } from './svg/index';
+export { bitmapToSvg, stringToSvg, anyUrlToSvg, dataUrlToSvg, resolveLengthToPixels } from './svg/index';
 
 export { DesktopIconSettings, initDesktopIconSettings } from './icon/desktop';
 
